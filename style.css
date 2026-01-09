@@ -61,7 +61,7 @@ nav a {
 /* ================= HERO ================= */
 .hero {
   height: 100vh;
-  background: url("/images/Background.jpg")
+  background: url("images/Background.jpg")
     center / cover no-repeat;
   position: relative;
   display: flex;
@@ -561,3 +561,4 @@ tbody tr {
     grid-template-columns: 1fr;
   }
 }
+
